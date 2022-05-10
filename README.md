@@ -1,1 +1,1 @@
-# AIable_OCR-TTS
+# 팀 AIable_시각장애인을 위한 문자인식과 TTS를 통한 제품 구별 서비스
